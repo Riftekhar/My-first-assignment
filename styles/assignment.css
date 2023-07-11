@@ -224,3 +224,38 @@ flex-shrink: 0;
       .form{
     text-align: center;
    }
+   .last-section{
+    width: 1922px;
+height: 449px;
+flex-shrink: 0;
+background-color: #111010;
+   }
+   .cow{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+padding-top: 128px;
+margin-bottom: 24px;
+   }
+   .bull{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+   }
+   .goat{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+   }
