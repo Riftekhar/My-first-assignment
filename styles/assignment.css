@@ -7,7 +7,7 @@ body{
     background-color: rgba(229, 84, 115, 0.10);
 }
 .banner{
-    padding: 197px  240px ;
+    padding: 197px 240px 0px ;
     width: 1920px;
 height: 850px;
 flex-shrink: 0;
@@ -69,6 +69,158 @@ font-size: 18px;
 font-weight: 400;
 line-height: 30px;
 margin-top: 24px;
+margin-bottom: 48px;
 }
 .background-section{
+    margin: 48px 450px ;
+    
+    width: 1440px;
+height: 605px;
+flex-shrink: 0;
 }
+#background{
+    border-radius: 300px 300px 0px 0px;
+background-color: rgba(167, 33, 98, 0.15);
+width: 464px;
+height: 538px;
+flex-shrink: 0;
+align-items: center;
+}
+#picture{
+    border-radius: 300px 300px 0px 0px;
+background-color: rgba(5, 151, 160, 0.15);
+width: 464px;
+height: 538px;
+flex-shrink: 0;
+}
+#pic{
+    border-radius: 300px 300px 0px 0px;
+background-color: rgba(71, 125, 17, 0.15);
+width: 464px;
+height: 538px;
+}
+.images{
+    display: flex;
+    margin-right: 24px;
+}
+.heading{
+    color: #272727;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+display: inline-flex;
+}
+#gap{
+    margin-right: 307px;
+    text-align: center;
+}
+#margin{
+    margin-right: 307px;
+    text-align: center;
+}
+.second-section{
+    border-radius: 8px;
+background-color: rgba(229, 84, 115, 0.05);
+width: 1922px;
+height: 620px;
+flex-shrink: 0;
+margin: auto;
+padding: 230px;
+justify-content: space-between;
+}
+
+.color{
+    color: #E55473;
+}
+
+.three{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.para{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+display: flex;
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+margin-top: 24px;
+}
+#show{
+    justify-content: space-between;
+}
+.title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-top: 128px;
+}
+.paragraph{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+   }
+   .fourth-section{
+    margin: 48px 240px 128px;
+    width: 1920px; 
+   }
+   .gap{
+    margin-right: 24px;
+   }
+   .number-section{
+    margin: 128px 240px;
+    width: 1500px;
+height: 449px;
+flex-shrink: 0;
+background-image: url('Rectangle\ 9.png');
+background-repeat: no-repeat;
+   }
+   .imagine{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-top: 122px;
+   }
+   .police{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+   }
+   .input{
+    border-radius: 8px;
+background-color: #FFF;
+width: 700px;
+height: 64px;
+flex-shrink: 0;
+   }
+   
+      .form{
+    text-align: center;
+   }
