@@ -1,0 +1,25 @@
+.header{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    padding: 197px  240px ;
+    width: 1920px;
+height: 850px;
+flex-shrink: 0;
+display: flex;
+}
+.Flower-pic{
+    width: 635px;
+height: 800px;
+flex-shrink: 0;
+margin-bottom: 0px;
+
+}
+.banner-greeting{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
